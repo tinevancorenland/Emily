@@ -1,0 +1,206 @@
+@font-face {
+  font-family: "Sailec";
+  src: url("webfont.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Sailec", sans-serif;
+}
+
+h1 {
+  font-size: 54px;
+}
+
+.word-color {
+  color: #0b99a8;
+}
+
+h2 {
+  display: inline-block;
+  color: #999;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3.2px;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, transparent), color-stop(50%, #16ffff));
+  background: linear-gradient(to bottom, transparent 50%, #16ffff 50%);
+}
+
+h3 {
+  font-size: 36px;
+  color: #002148;
+  margin: 1%;
+}
+
+p {
+  color: #737373;
+  margin: 1%;
+  line-height: 1.5;
+}
+
+a,
+#submit {
+  text-align: center;
+  border-radius: 4px;
+  border: none;
+  padding: 20px;
+  background-color: #fe5f50;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2.4px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+header,
+footer {
+  background-color: #002148;
+  color: white;
+  padding: 3% 1%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.summary {
+  width: 80%;
+  margin: 2% auto;
+  text-align: center;
+}
+
+.summary #BeBold-logo {
+  width: 25%;
+  height: auto;
+}
+
+.program {
+  width: 90%;
+  margin: 2% auto;
+}
+
+table {
+  border: 2px solid #fe5f50;
+  border-radius: 4px;
+  margin: 1% 0;
+  padding: 2%;
+  width: 98%;
+  color: #737373;
+}
+
+table td {
+  padding: 1%;
+}
+
+.tips-and-tricks {
+  margin: 2%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tips-and-tricks .tip {
+  margin: 1%;
+  padding: 1%;
+  border: 1px solid #002148;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.tips-and-tricks .tip p {
+  margin: 10% 0;
+}
+
+.tips-and-tricks #tip-subscribe {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.tips-and-tricks #tip-subscribe a {
+  margin: auto;
+}
+
+.customer-cases {
+  margin: 2% 0;
+  padding: 2%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: #002148;
+}
+
+.customer-cases .case {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1%;
+  border-radius: 4px;
+}
+
+.customer-cases .case iframe {
+  width: 560px;
+  max-width: 100%;
+  height: 315px;
+  max-height: 100%;
+}
+
+.customer-cases .case h2 {
+  margin: 2%;
+}
+
+form {
+  margin: 1% auto;
+  padding: 1%;
+  width: 50%;
+  border: 2px solid #fe5f50;
+  border-radius: 4px;
+}
+
+form h2 {
+  margin-bottom: 10px;
+}
+
+form .inputfield {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #737373;
+}
+
+form .submit {
+  margin-top: 30px;
+  text-align: right;
+}
+/*# sourceMappingURL=style.css.map */
