@@ -1,6 +1,10 @@
 # Emily
 
-## Context
+### Preview
+
+[preview landing page](https://tinevancorenland.github.io/Emily/)
+
+### Context
 
 Op 10 maart organiseert Be Bold een event voor alle klanten en prospecten die mogelijks interesse kunnen hebben in Marketing Automation. Deze dag zal gaan over de nieuwe trends binnen Marketing Automation, best practices van Be Bold klanten en we organiseren daarnaast ook een interactieve workshop.
 
@@ -19,13 +23,13 @@ Op dit event komen er twee inspirerende klanten praten. De dag begint met een we
 
 We zouden graag een eventpagina hebben waar al deze info in te vinden is & waar mensen zich kunnen inschrijven voor deze inspirerende dag.
 
-## Opdracht
+### Opdracht
 
 • Maak een aantrekkelijke landingspagina voor ons event (in HTML/CSS). Zorg er zeker voor dat mensen zich kunnen inschrijven en wij de nodige praktische informatie hebben.
 
 • Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil).
 
-## Benodigdheden/assumpties
+### Benodigdheden/assumpties
 
 • Je moet geen volledige copy schrijven. Je mag Lorem Ipsum gebruiken om jouw landingspagina op te vullen.
 
