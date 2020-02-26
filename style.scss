@@ -73,7 +73,7 @@ a,
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 2.4px;
-  height: fit-content;
+  //   height: fit-content;
 }
 
 // Event page
@@ -117,7 +117,8 @@ table {
 }
 
 .tips-and-tricks {
-  margin: 2%;
+  width: 50%;
+  margin: 2% auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -131,12 +132,16 @@ table {
       margin: 10% 0;
     }
   }
-  #tip-subscribe {
-    display: flex;
-    align-items: center;
-    a {
-      margin: auto;
-    }
+}
+
+#subscribe {
+  width: 50%;
+  margin: 2% auto;
+  text-align: center;
+  a {
+    display: block;
+    width: 100%;
+    padding: 20px 0;
   }
 }
 
@@ -162,6 +167,8 @@ table {
     }
     h2 {
       margin: 2%;
+      color: white;
+      background: none;
     }
   }
 }
@@ -180,8 +187,32 @@ form {
     border: none;
     border-bottom: 1px solid $dark-grey;
   }
+  .inputfield:focus {
+    outline: none;
+    border-bottom: 2px solid $coral;
+  }
   .submit {
     margin-top: 30px;
     text-align: right;
+  }
+}
+
+footer h2 {
+  color: white;
+  background: none;
+}
+
+@media screen and (min-width: 1024px) {
+  header h1 {
+    width: 75%;
+  }
+  .summary {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 1166px) {
+  .tips-and-tricks {
+    justify-content: space-between;
   }
 }

@@ -52,9 +52,6 @@ a,
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 2.4px;
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
 }
 
 header,
@@ -104,7 +101,8 @@ table td {
 }
 
 .tips-and-tricks {
-  margin: 2%;
+  width: 50%;
+  margin: 2% auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -127,17 +125,16 @@ table td {
   margin: 10% 0;
 }
 
-.tips-and-tricks #tip-subscribe {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+#subscribe {
+  width: 50%;
+  margin: 2% auto;
+  text-align: center;
 }
 
-.tips-and-tricks #tip-subscribe a {
-  margin: auto;
+#subscribe a {
+  display: block;
+  width: 100%;
+  padding: 20px 0;
 }
 
 .customer-cases {
@@ -179,6 +176,8 @@ table td {
 
 .customer-cases .case h2 {
   margin: 2%;
+  color: white;
+  background: none;
 }
 
 form {
@@ -199,8 +198,35 @@ form .inputfield {
   border-bottom: 1px solid #737373;
 }
 
+form .inputfield:focus {
+  outline: none;
+  border-bottom: 2px solid #fe5f50;
+}
+
 form .submit {
   margin-top: 30px;
   text-align: right;
+}
+
+footer h2 {
+  color: white;
+  background: none;
+}
+
+@media screen and (min-width: 1024px) {
+  header h1 {
+    width: 75%;
+  }
+  .summary {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 1166px) {
+  .tips-and-tricks {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
 }
 /*# sourceMappingURL=style.css.map */
