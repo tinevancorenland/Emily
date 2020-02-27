@@ -21,38 +21,31 @@ We zouden graag een eventpagina hebben waar al deze info in te vinden is & waar 
 
 ### Opdracht
 
-• Maak een aantrekkelijke landingspagina voor ons event (in HTML/CSS). Zorg er zeker voor dat mensen zich kunnen inschrijven en wij de nodige praktische informatie hebben.
+1. Maak een aantrekkelijke landingspagina voor ons event (in HTML/CSS). Zorg er zeker voor dat mensen zich kunnen inschrijven en wij de nodige praktische informatie hebben.
 
-• Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil).
+[preview landingspagina](https://tinevancorenland.github.io/Emily/)
 
-#### Landingspagina
+2. Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil). Dit van uitnodiging evenement tot bedanking achteraf.
 
-[preview landing page](https://tinevancorenland.github.io/Emily/)
-
-#### Customer journey
-
-Uitnodiging event
-
---> 3 weken voor het evenement:
-Stuur een mail naar alle klanten en prospecten die voor ogen zijn om uit te nodigen, met daarin een korte uitnodiging en een persoonlijk filmpje;
+- Uitnodiging event - 3 weken voor het evenement:
+  Stuur een mail naar alle klanten en prospecten die voor ogen zijn om uit te nodigen, met daarin een korte uitnodiging en een persoonlijk filmpje;
 
 "Beste ...,
 Op 10/3/2020 organiseren we een inspiratiedag vol met nieuwe trends binnen Marketing Automation, best practices van Be Bold klanten en een interactieve workshop.
-Schrijf je in, het wordt episch."
-
-gevolgd door een link naar de landingspagina waar je kan registreren.
+Schrijf je in, het wordt episch." gevolgd door een link naar de landingspagina waar je kan registreren.
 
 Daarbij zou ik een filmpje toevoegen van 1 minuut, opgenomen door Be Bold medewerkers.
--- De eerste **10 seconden** zegt er iemand wat marketing automation is en hoe het werkt (love a challenge do ya?)
-"we automatiseren jouw marketing proces en proberen zo kwalitatief mogelijk klanten aan te trekken. Dit gebeurt bijvoorbeeld en onder andere door in te zetten op het creëren van vertrouwen bij potentiële klanten, waarbij een veel gebruikte strategie is om bestaande klanten te tonen die een grote naambekendheid hebben.
--- De tweede **10 seconden** zegt diezelfde persoon dat Be Bold staat voor al het menselijke in de automation (see what I did there?)
--- De volgende **30 seconden** komen er 3 mensen aan het woord die eerlijk vertellen wat zij als persoon en met hun kennis voor je doen. Toon een vriendelijk gezicht, vertel wat deze persoon kan bijdragen wat je als klant zelf moeilijker kan (toon de expertise) en vertel een persoonlijk detail (toon de menselijkheid).
--- De laatste **10 seconden**
-"Overtuigd? Registreer je meteen voor ons evenement via de link in de mail.
-Twijfel je nog? En toon vervolgens de logo's van Johnson&Johnson, VUB, CM, ... de bekendste bedrijfsnamen van klanten; spelenderwijs verwijzend naar de intro van het filmpje waarbij je als klant vertrouwen krijgt door het zien van gekende voorgangers die voor kwaliteit staan."
 
---> 2 weken voor het evenement:
-Stuur een tweede mailing waarin jullie de BeBold aanpak laten voelen.
+        -- De eerste **10 seconden** zegt er iemand wat marketing automation is en hoe het werkt (love a challenge do ya?)
+            "we automatiseren jouw marketing proces en proberen zo kwalitatief mogelijk klanten aan te trekken. Dit gebeurt bijvoorbeeld en onder andere door in te zetten op het creëren van vertrouwen bij potentiële klanten, waarbij een veel gebruikte strategie is om bestaande klanten te tonen die een grote naambekendheid hebben.
+        -- De tweede **10 seconden** zegt diezelfde persoon dat Be Bold staat voor al het menselijke in de automation (see what I did there?)
+        -- De volgende **30 seconden** komen er 3 mensen aan het woord die eerlijk vertellen wat zij als persoon en met hun kennis voor je doen. Toon een vriendelijk gezicht, vertel wat deze persoon kan bijdragen wat je als klant zelf moeilijker kan (toon de expertise) en vertel een persoonlijk detail (toon de menselijkheid).
+        -- De laatste **10 seconden**
+            "Overtuigd? Registreer je meteen voor ons evenement via de link in de mail.
+            Twijfel je nog? En toon vervolgens de logo's van Johnson&Johnson, VUB, CM, ... de bekendste bedrijfsnamen van klanten; spelenderwijs verwijzend naar de intro van het filmpje waarbij je als klant vertrouwen krijgt door het zien van gekende voorgangers die voor kwaliteit staan."
+
+- 2 weken voor het evenement:
+  Stuur een tweede mailing waarin jullie de BeBold aanpak laten voelen.
 
 Stuur een grafisch uitgewerkte tekening /schema met alle informatie die jullie uit het eerste contact haalden.
 
@@ -76,14 +69,14 @@ Omschrijf een samenvatting en interpretatie van deze cijfers: we hadden ... verw
 
 Voer de aanpak uit waar het meeste op gestemd wordt.
 
---> 1 week voor het evenement:
-Stuur een laatste mailing.
+- 1 week voor het evenement:
+  Stuur een laatste mailing.
 
 Zijn jullie benieuwd naar de resultaten van onze vorige mail?
 Schrijf je in voor onze inspiratiedag op 10/3 en kom alles te weten.
 
---> Bedanking achteraf
-Mail een laatste keer
+- Bedanking achteraf
+  Mail een laatste keer
 
 Stuur wederom een grafisch uitgewerkte tekening /schema zoals bij de tweede mailing, maar dan afgewerkt met data tot en met de aanwezigheid op het evenement.
 Bedank iedereen om minstens 1 cijfer uit te maken van de data, waardoor BeBold kan bijleren en alleen maar beter kan worden.
