@@ -25,7 +25,9 @@ We zouden graag een eventpagina hebben waar al deze info in te vinden is & waar 
 
    [preview landingspagina](https://tinevancorenland.github.io/Emily/)
 
-2. **_Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil)._**
+   Het formulier onderaan werkt niet echt wanneer je op de knop verzenden drukt - de pagina is enkel een voorbeeld.
+
+2) **_Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil)._**
 
 - _Uitnodiging - 3 weken voor het evenement:_
   _Stuur een mail naar alle klanten en prospecten die voor ogen zijn om uit te nodigen, met daarin een korte uitnodiging en een persoonlijk filmpje;_
