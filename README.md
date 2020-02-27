@@ -58,16 +58,16 @@ We zouden graag een eventpagina hebben waar al deze info in te vinden is & waar 
 
   Omschrijf een samenvatting en interpretatie van deze cijfers: we hadden ... verwacht en ... is de realiteit.
 
-**Scenario 1:** Wat een gigantisch succes! De inschrijvingen zijn zo talrijk dat onze dag al volzit!
+  **Scenario 1:** Wat een gigantisch succes! De inschrijvingen zijn zo talrijk dat onze dag al volzit!
 
         -- Geef drie redenen waarom de mailing zo'n verpletterend succes zou kunnen zijn en voeg stemknoppen toe, waarbij je lezers kunnen stemmen op welke reden zijn denken.
 
-**Scenario 2:** We hadden meer verwacht. Dat kan volgens ons komen door een aantal redenen.
+  **Scenario 2:** We hadden meer verwacht. Dat kan volgens ons komen door een aantal redenen.
 
-       -- Geef drie redenen en voeg stemknoppen toe aan je mailing, waarbij je lezers kunnen stemmen op welke reden zij denken.
+        -- Geef drie redenen en voeg stemknoppen toe aan je mailing, waarbij je lezers kunnen stemmen op welke reden zij denken.
         -- Geef drie mogelijke aanpakken om de cijfers dichter naar de verwachting te brengen en voeg hier ook stemknoppen aan toe.
 
-    Voer de aanpak uit waar het meeste op gestemd wordt.
+  Voer de aanpak uit waar het meeste op gestemd wordt.
 
 - _1 week voor het evenement:_
   _Stuur een laatste mailing._
@@ -75,7 +75,7 @@ We zouden graag een eventpagina hebben waar al deze info in te vinden is & waar 
   Zijn jullie benieuwd naar de resultaten van onze vorige mail?
   Schrijf je in voor onze inspiratiedag op 10/3 en kom alles te weten.
 
-- _Bedanking achteraf_
+- _Bedanking achteraf:_
   _Mail een laatste keer_
 
   Stuur wederom een grafisch uitgewerkte tekening /schema zoals bij de tweede mailing, maar dan afgewerkt met data tot en met de aanwezigheid op het evenement.
