@@ -21,20 +21,20 @@ We zouden graag een eventpagina hebben waar al deze info in te vinden is & waar 
 
 ### Opdracht
 
-1. Maak een aantrekkelijke landingspagina voor ons event (in HTML/CSS). Zorg er zeker voor dat mensen zich kunnen inschrijven en wij de nodige praktische informatie hebben.
+1. **_Maak een aantrekkelijke landingspagina voor ons event (in HTML/CSS). Zorg er zeker voor dat mensen zich kunnen inschrijven en wij de nodige praktische informatie hebben._**
 
-[preview landingspagina](https://tinevancorenland.github.io/Emily/)
+   [preview landingspagina](https://tinevancorenland.github.io/Emily/)
 
-2. Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil). Dit van uitnodiging evenement tot bedanking achteraf.
+2. **_Denk eens na hoe je zo’n customer journey van begin tot einde (uitnodiging van event tot en met bedanking achteraf) zou aanpakken. Deze flow mag je gewoon uittekenen, uitschrijven, vertellen in een video... (hoe je maar wil). Dit van uitnodiging evenement tot bedanking achteraf._**
 
-- Uitnodiging event - 3 weken voor het evenement:
-  Stuur een mail naar alle klanten en prospecten die voor ogen zijn om uit te nodigen, met daarin een korte uitnodiging en een persoonlijk filmpje;
+- _Uitnodiging event - 3 weken voor het evenement:_
+  _Stuur een mail naar alle klanten en prospecten die voor ogen zijn om uit te nodigen, met daarin een korte uitnodiging en een persoonlijk filmpje;_
 
-"Beste ...,
-Op 10/3/2020 organiseren we een inspiratiedag vol met nieuwe trends binnen Marketing Automation, best practices van Be Bold klanten en een interactieve workshop.
-Schrijf je in, het wordt episch." gevolgd door een link naar de landingspagina waar je kan registreren.
+  "Beste ...,
+  Op 10/3/2020 organiseren we een inspiratiedag vol met nieuwe trends binnen Marketing Automation, best practices van Be Bold klanten en een interactieve workshop.
+  Schrijf je in, het wordt episch." gevolgd door een link naar de landingspagina waar je kan registreren.
 
-Daarbij zou ik een filmpje toevoegen van 1 minuut, opgenomen door Be Bold medewerkers.
+  Daarbij zou ik een filmpje toevoegen van 1 minuut, opgenomen door Be Bold medewerkers.
 
         -- De eerste **10 seconden** zegt er iemand wat marketing automation is en hoe het werkt (love a challenge do ya?)
             "we automatiseren jouw marketing proces en proberen zo kwalitatief mogelijk klanten aan te trekken. Dit gebeurt bijvoorbeeld en onder andere door in te zetten op het creëren van vertrouwen bij potentiële klanten, waarbij een veel gebruikte strategie is om bestaande klanten te tonen die een grote naambekendheid hebben.
@@ -44,39 +44,39 @@ Daarbij zou ik een filmpje toevoegen van 1 minuut, opgenomen door Be Bold medewe
             "Overtuigd? Registreer je meteen voor ons evenement via de link in de mail.
             Twijfel je nog? En toon vervolgens de logo's van Johnson&Johnson, VUB, CM, ... de bekendste bedrijfsnamen van klanten; spelenderwijs verwijzend naar de intro van het filmpje waarbij je als klant vertrouwen krijgt door het zien van gekende voorgangers die voor kwaliteit staan."
 
-- 2 weken voor het evenement:
-  Stuur een tweede mailing waarin jullie de BeBold aanpak laten voelen.
+- _2 weken voor het evenement:_
+  _Stuur een tweede mailing waarin jullie de BeBold aanpak laten voelen._
 
-Stuur een grafisch uitgewerkte tekening /schema met alle informatie die jullie uit het eerste contact haalden.
+  Stuur een grafisch uitgewerkte tekening /schema met alle informatie die jullie uit het eerste contact haalden.
 
-    -- Naar hoeveel mensen is de mailing verstuurd?
-    -- Hoeveel mensen daarvan hebben de mail geopend?
-    -- Hoeveel kliks zijn er gebeurd?
-    -- Op wat is er geklikt?
-    -- Hoeveel mensen hebben er naar het filmpje gekeken?
-    -- Hoeveel deelnemers zijn er voor het evenement?
+        -- Naar hoeveel mensen is de mailing verstuurd?
+        -- Hoeveel mensen daarvan hebben de mail geopend?
+        -- Hoeveel kliks zijn er gebeurd?
+        -- Op wat is er geklikt?
+        -- Hoeveel mensen hebben er naar het filmpje gekeken?
+        -- Hoeveel deelnemers zijn er voor het evenement?
 
-Omschrijf een samenvatting en interpretatie van deze cijfers: we hadden ... verwacht en ... is de realiteit.
+  Omschrijf een samenvatting en interpretatie van deze cijfers: we hadden ... verwacht en ... is de realiteit.
 
 **Scenario 1:** Wat een gigantisch succes! De inschrijvingen zijn zo talrijk dat onze dag al volzit!
 
-    -- Geef drie redenen waarom de mailing zo'n verpletterend succes zou kunnen zijn en voeg stemknoppen toe, waarbij je lezers kunnen stemmen op welke reden zijn denken.
+        -- Geef drie redenen waarom de mailing zo'n verpletterend succes zou kunnen zijn en voeg stemknoppen toe, waarbij je lezers kunnen stemmen op welke reden zijn denken.
 
 **Scenario 2:** We hadden meer verwacht. Dat kan volgens ons komen door een aantal redenen.
 
-    -- Geef drie redenen en voeg stemknoppen toe aan je mailing, waarbij je lezers kunnen stemmen op welke reden zij denken.
-    -- Geef drie mogelijke aanpakken om de cijfers dichter naar de verwachting te brengen en voeg hier ook stemknoppen aan toe.
+       -- Geef drie redenen en voeg stemknoppen toe aan je mailing, waarbij je lezers kunnen stemmen op welke reden zij denken.
+        -- Geef drie mogelijke aanpakken om de cijfers dichter naar de verwachting te brengen en voeg hier ook stemknoppen aan toe.
 
-Voer de aanpak uit waar het meeste op gestemd wordt.
+    Voer de aanpak uit waar het meeste op gestemd wordt.
 
-- 1 week voor het evenement:
-  Stuur een laatste mailing.
+- _1 week voor het evenement:_
+  _Stuur een laatste mailing._
 
-Zijn jullie benieuwd naar de resultaten van onze vorige mail?
-Schrijf je in voor onze inspiratiedag op 10/3 en kom alles te weten.
+  Zijn jullie benieuwd naar de resultaten van onze vorige mail?
+  Schrijf je in voor onze inspiratiedag op 10/3 en kom alles te weten.
 
-- Bedanking achteraf
-  Mail een laatste keer
+- _Bedanking achteraf_
+  _Mail een laatste keer_
 
-Stuur wederom een grafisch uitgewerkte tekening /schema zoals bij de tweede mailing, maar dan afgewerkt met data tot en met de aanwezigheid op het evenement.
-Bedank iedereen om minstens 1 cijfer uit te maken van de data, waardoor BeBold kan bijleren en alleen maar beter kan worden.
+  Stuur wederom een grafisch uitgewerkte tekening /schema zoals bij de tweede mailing, maar dan afgewerkt met data tot en met de aanwezigheid op het evenement.
+  Bedank iedereen om minstens 1 cijfer uit te maken van de data, waardoor BeBold kan bijleren en alleen maar beter kan worden.
